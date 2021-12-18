@@ -19,7 +19,8 @@
   "homepage": "https://github.com/acmcalvo/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
-
-
